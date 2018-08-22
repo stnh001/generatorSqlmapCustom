@@ -9,8 +9,8 @@
         <module name="generatorSqlmapCustom" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="generatorSqlmapCustom" target="1.5" />
+    <bytecodeTargetLevel>
+      <module name="generatorSqlmapCustom" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
